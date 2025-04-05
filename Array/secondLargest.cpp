@@ -17,6 +17,7 @@ int getSL(vector<int> &v)
         }
     }
     return sL;
+    
 }
 int main(int argc, char const *argv[])
 {
